@@ -24,6 +24,6 @@ Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certifi
 
 ### 🏆 Advanced React
 
-<img src="./certificates/scrimba-advanced-react-png.png" alt="scrimba advanced react certification" />
+<img src="./certificates/scrimba-advanced-react-certificate.png" alt="scrimba advanced react certification" />
 
 Verify this certification at [Scrimba](https://scrimba.com/certificate/u9enxdu5/greact)
