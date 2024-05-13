@@ -14,10 +14,16 @@ Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certifi
 
 Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certification/zun-liang/javascript-algorithms-and-data-structures)
 
+### 🏆 Relational Database Certification
+
+<img src="./certificates/fcc-relational-database-certification.png" alt="fcc relational database certification" />
+
+Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certification/zun-liang/relational-database-v8)
+
 ## Scrimba
 
 ### 🏆 Advanced React
 
 <img src="./certificates/scrimba-advanced-react-png.png" alt="scrimba advanced react certification" />
 
-Verifiy this certification at [Scrimba](https://scrimba.com/certificate/u9enxdu5/greact)
+Verify this certification at [Scrimba](https://scrimba.com/certificate/u9enxdu5/greact)
