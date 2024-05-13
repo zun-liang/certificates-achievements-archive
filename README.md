@@ -10,7 +10,7 @@ Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certifi
 
 ### 🏆 JavaScript Algorithms and Data Structures Certification
 
-<img src="./certificates/fcc-javascript=algorithms-and-data-structures-certification.png" alt="fcc javascript algorithms and data structures certification" />
+<img src="./certificates/fcc-javascript-algorithms-and-data-structures-certification.png" alt="fcc javascript algorithms and data structures certification" />
 
 Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certification/zun-liang/javascript-algorithms-and-data-structures)
 
