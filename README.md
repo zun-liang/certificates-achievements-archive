@@ -14,6 +14,12 @@ Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certifi
 
 Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certification/zun-liang/javascript-algorithms-and-data-structures)
 
+### 🏆 Front End Development Libraries Certification
+
+<img src="./certificates/fcc-front-end-development-libraries-certification.png" alt="fcc front end development libraries certification" />
+
+Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certification/zun-liang/front-end-development-libraries)
+
 ### 🏆 Relational Database Certification
 
 <img src="./certificates/fcc-relational-database-certification.png" alt="fcc relational database certification" />
