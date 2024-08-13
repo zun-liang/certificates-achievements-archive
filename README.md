@@ -34,6 +34,12 @@ Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certifi
 
 Verify this certification at [Scrimba](https://scrimba.com/certificate/u9enxdu5/greact)
 
+## CodingAddict
+
+### 🏆 NodeJS
+
+<img src="./certificates/ca-nodejs-certificate.png" alt="coding addict nodejs certification" />
+
 ## Linkedin Learning
 
 ### 🏆 Career Essentials in Generative AI by Microsoft and Linkedin
