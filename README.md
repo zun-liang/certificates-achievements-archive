@@ -30,15 +30,23 @@ Verify this certification at [FreeCodeCamp](https://www.freecodecamp.org/certifi
 
 ### 🏆 Advanced React
 
-<img src="./certificates/scrimba-advanced-react-certificate.png" alt="scrimba advanced react certification" />
+<img src="./certificates/scrimba-advanced-react-certificate.png" alt="scrimba advanced react certificate" />
 
-Verify this certification at [Scrimba](https://scrimba.com/certificate/u9enxdu5/greact)
+Verify this certificate at [Scrimba](https://scrimba.com/certificate/u9enxdu5/greact)
 
 ## CodingAddict
 
 ### 🏆 NodeJS
 
-<img src="./certificates/ca-nodejs-certificate.png" alt="coding addict nodejs certification" />
+<img src="./certificates/ca-nodejs-certificate.png" alt="coding addict nodejs certificate" />
+
+## Edx
+
+### 🏆 GTx CS1301xI: Computing in Python I: Fundamentals and Procedural Programming
+
+<img src="./certificates/edx-gtx-cs1301-I.png" alt="edx gtx cs1301 I certificate" />
+
+Verify this certificate at [Edx](https://courses.edx.org/certificates/7a07c00ef011460f9a7bd114f30531d5?_gl=1*1pxcxj5*_gcl_au*MTcyMjA1NzM1OC4xNzMwOTE4OTI1*_ga*MTc2MjMyNTY4Mi4xNzMwOTE4OTI1*_ga_D3KS4KMDT0*MTczODY4OTg3MS40MC4xLjE3Mzg2OTAxMTAuNTkuMC4w)
 
 ## Linkedin Learning
 
