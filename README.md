@@ -60,6 +60,12 @@ Verify this certificate at [Edx](https://courses.edx.org/certificates/6c608f372f
 
 Verify this certificate at [Edx](https://courses.edx.org/certificates/72ac93106f944e78baa0a874bcd007eb?_gl=1*11kqmct*_gcl_au*MTIyMTQxNjg4NS4xNzM4Nzk4ODQ5*_ga*MTc2MjMyNTY4Mi4xNzMwOTE4OTI1*_ga_D3KS4KMDT0*czE3NDYyODYwMDQkbzE2NiRnMSR0MTc0NjI4NzAwMiRqMzgkbDAkaDA.)
 
+### 🏆 GTx CS1301xIV: Computing in Python IV: Objects & Algorithms
+
+<img src="./certificates/edx-gtx-cs1301-IV.png" alt="edx gtx cs1301 IV certificate" />
+
+Verify this certificate at [Edx](https://courses.edx.org/certificates/4738915d71b04eaca0a3867db5b29c10?_gl=1*w6s2bf*_gcl_au*MTg0NTE5NjQ2LjE3NDY1Nzk1MTI.*_ga*MTc2MjMyNTY4Mi4xNzMwOTE4OTI1*_ga_D3KS4KMDT0*czE3NDc3ODEwNjEkbzE5NCRnMSR0MTc0Nzc4MjI1NCRqNDkkbDAkaDAkZC1IYzFTc2VEcXFraTJXWXhTaWhFajJlVF85OHVMdE16OXc.)
+
 ## Linkedin Learning
 
 ### 🏆 Career Essentials in Generative AI by Microsoft and Linkedin
