@@ -66,6 +66,12 @@ Verify this certificate at [Edx](https://courses.edx.org/certificates/72ac93106f
 
 Verify this certificate at [Edx](https://courses.edx.org/certificates/4738915d71b04eaca0a3867db5b29c10?_gl=1*w6s2bf*_gcl_au*MTg0NTE5NjQ2LjE3NDY1Nzk1MTI.*_ga*MTc2MjMyNTY4Mi4xNzMwOTE4OTI1*_ga_D3KS4KMDT0*czE3NDc3ODEwNjEkbzE5NCRnMSR0MTc0Nzc4MjI1NCRqNDkkbDAkaDAkZC1IYzFTc2VEcXFraTJXWXhTaWhFajJlVF85OHVMdE16OXc.)
 
+### 🏆 GTx CS1331xI: Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics
+
+<img src="./certificates/edx-gtx-cs1331-I.png" alt="edx gtx cs1331 I certificate" />
+
+Verify this certificate at [Edx](https://courses.edx.org/certificates/f900dafdaf8546baaf3fd4bbf9b49aba?_gl=1*sp3kua*_gcl_au*MTg0NTE5NjQ2LjE3NDY1Nzk1MTI.*_ga*MTc2MjMyNTY4Mi4xNzMwOTE4OTI1*_ga_D3KS4KMDT0*czE3NTA1MjA2NjckbzI2OSRnMCR0MTc1MDUyMDY2NyRqNjAkbDAkaDA.)
+
 ## Linkedin Learning
 
 ### 🏆 Career Essentials in Generative AI by Microsoft and Linkedin
